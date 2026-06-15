@@ -1,0 +1,6 @@
+{
+  "name": "HTML Portfolio Maker",
+  "description": "একটি চমৎকার অ্যান্ড্রয়েড অ্যাপ্লিকেশন যার মাধ্যমে অত্যন্ত সহজে প্রফেশনাল এইচটিএমএল পোর্টফোলিও ওয়েবসাইট তৈরি, লাইভ প্রিভিউ এবং কোড কপি করা যায়।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
